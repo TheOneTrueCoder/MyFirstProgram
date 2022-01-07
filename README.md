@@ -18,4 +18,4 @@ while roll.lower() != "yes" and roll.lower() != "no":
         roll = input("Would you like to roll again? ")
 
 if roll.lower() == "no":
-    print("Have a good day")
+    print("Have a good day") 
